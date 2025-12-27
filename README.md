@@ -28,4 +28,6 @@ I'm Aaroh (also known as Kash) 🐐; I create systems, not just excuses 🧠⚙�
 ---
 [![](https://visitcount.itsvg.in/api?id=kaaaaash&icon=0&color=11)](https://visitcount.itsvg.in)
 
+<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
