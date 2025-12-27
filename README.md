@@ -1,6 +1,9 @@
 # Duhh, it's me:
 I'm Aaroh (also known as Kash) 🐐; I create systems, not just excuses 🧠⚙️ Cloud ☁️ | Full-stack 💻 | AI automation 🤖; I'm in for anything that scales, optimizes, or simplifies life.<br><br>Deep in product-first builds, AI agents, and DSA right now 🔥<br>I pick things up quickly, purposefully break things, rebuild them better, and repeat ♻️.<br>There are no short cuts or copy-and-paste jobs just clear reasoning and solid execution.<br><br>I love design, storytelling, music, and cinematic vibes outside of code 🎧🎬✨.<br>I prefer chaos with control and structure with personality 😌⚡.<br><br>Building daily 📈<br>Leveling up constantly 🚀<br>Only a future-proof mentality 🧿
 
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aarohseth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aarohseth) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/AarohSeth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:scaptaink@gmail.com) 
