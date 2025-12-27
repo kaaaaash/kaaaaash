@@ -6,7 +6,7 @@
 I'm Aaroh (also known as Kash) 🐐; I create systems, not just excuses 🧠⚙️ Cloud ☁️ | Full-stack 💻 | AI automation 🤖; I'm in for anything that scales, optimizes, or simplifies life.<br><br>Deep in product-first builds, AI agents, and DSA right now 🔥<br>I pick things up quickly, purposefully break things, rebuild them better, and repeat ♻️.<br>There are no short cuts or copy-and-paste jobs just clear reasoning and solid execution.<br><br>I love design, storytelling, music, and cinematic vibes outside of code 🎧🎬✨.<br>I prefer chaos with control and structure with personality 😌⚡.<br><br>Building daily 📈<br>Leveling up constantly 🚀<br>Only a future-proof mentality 🧿
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
+<img height="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
 ## 🌐 Socials:
@@ -28,6 +28,17 @@ I'm Aaroh (also known as Kash) 🐐; I create systems, not just excuses 🧠⚙�
 ---
 [![](https://visitcount.itsvg.in/api?id=kaaaaash&icon=0&color=11)](https://visitcount.itsvg.in)
 
-<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" width="280" height="auto" />
+<div align="center">
+<img src="https://media.giphy.com/media/Vuw9m5wXviFIQ/source.gif" hight="200" width="700" alt="GIF" align="center" />
+</div>
+<div align="center">
+  <img
+    src="[https://media.tenor.com/4qk9kQm0n9EAAAAC/centurion-roman-cat.gif](https://media.tenor.com/1u4EysMsKhAAAAAi/centurion-roman.gif)"
+    width="300"
+    alt="Centurion Roman Cat"
+  />
+</div>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
