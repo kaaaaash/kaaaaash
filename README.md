@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Duhh, it’s me — building things.</h2>
+  <h1>Duhh, it’s me — building things.</h1>
 </div>
 
 
