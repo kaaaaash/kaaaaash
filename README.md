@@ -40,6 +40,15 @@ I'm Aaroh (also known as Kash) 🐐; I create systems, not just excuses 🧠⚙�
 ---
 [![](https://visitcount.itsvg.in/api?id=kaaaaash&icon=0&color=11)](https://visitcount.itsvg.in)
 
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/kaaaaash/kaaaaash/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <sub>
     Nothing here is broken.<br>
