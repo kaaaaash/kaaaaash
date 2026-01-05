@@ -48,6 +48,7 @@ I'm Aaroh (also known as Kash) 🐐; I create systems, not just excuses 🧠⚙�
 <img src="https://raw.githubusercontent.com/kaaaaash/kaaaaash/output/snake.svg" alt="Snake animation" />
 
 ###
+<br>
 
 <div align="center">
   <sub>
