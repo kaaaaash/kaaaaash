@@ -3,7 +3,7 @@
 </div>
 
 
-I'm Aaroh (also known as Kash) 🐐; I create systems, not just excuses 🧠⚙️ Cloud ☁️ | Full-stack 💻 | AI automation 🤖; I'm in for anything that scales, optimizes, or simplifies life.<br><br>Deep in product-first builds, AI agents, and DSA right now 🔥<br>I pick things up quickly, purposefully break things, rebuild them better, and repeat ♻️.<br>There are no short cuts or copy-and-paste jobs — just clear reasoning and solid execution.<br><br>I love design, storytelling, music, and cinematic vibes outside of code 🎧🎬✨.<br>I prefer chaos with control and structure with personality 😌⚡.<br><br>Building daily 📈<br>Leveling up constantly 🚀<br>Only a future-proof mentality 🧿
+I'm Aaroh (also known as Kaash) 🐐; I create systems, not just excuses 🧠⚙️ Cloud ☁️ | Full-stack 💻 | AI automation 🤖; I'm in for anything that scales, optimizes, or simplifies life.<br><br>Deep in product-first builds, AI agents, and DSA right now 🔥<br>I pick things up quickly, purposefully break things, rebuild them better, and repeat ♻️.<br>There are no short cuts or copy-and-paste jobs — just clear reasoning and solid execution.<br><br>I love design, storytelling, music, and cinematic vibes outside of code 🎧🎬✨.<br>I prefer chaos with control and structure with personality 😌⚡.<br><br>Building daily 📈<br>Leveling up constantly 🚀<br>Only a future-proof mentality 🧿
 
 <br>
 <div align="center">
