@@ -29,7 +29,7 @@ I'm Aaroh (also known as Kaash) 🐐; I create systems, not just excuses 🧠⚙
 
 <div align="center">
 
-<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kaaaaash&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kaaaaash&theme=github_dark"/>
 
 <img height="180em" src="https://streak-stats.demolab.com?user=kaaaaash&theme=merko"/>
 
