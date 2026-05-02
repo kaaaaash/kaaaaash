@@ -29,11 +29,28 @@ I'm Aaroh (also known as Kaash) 🐐; I create systems, not just excuses 🧠⚙
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaaaaash&show_icons=true&theme=merko&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400"/>
+<table>
+<tr>
+<td>
 
-<img height="180em" src="https://streak-stats.demolab.com?user=kaaaaash&theme=merko&cache_seconds=86400"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kaaaaash&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaaaash&layout=compact&theme=merko&langs_count=8&count_private=true&cache_seconds=86400"/>
+</td>
+<td>
+
+<img src="https://streak-stats.demolab.com?user=kaaaaash&theme=merko"/>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaaaaash&layout=compact&theme=merko&count_private=true"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
